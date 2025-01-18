@@ -10,7 +10,7 @@ Welcome to **Kiwi**, a dynamic marketplace platform where individuals can create
 - **Secure Payments:** Integrated payment system for smooth transactions.
 - **User-Friendly Search:** Discover courses based on topics, ratings, and reviews.
 - **Interactive Learning:** Engage with instructors and other learners through discussion forums.
-- **Customizable Profiles:** Showcase your skills and achievements.
+- **Customizable Profiles:** Showcase your skills and achievements
 
 ## Installation
 
